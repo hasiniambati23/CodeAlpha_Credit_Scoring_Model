@@ -152,6 +152,11 @@ streamlit run app.py
 * Integration with banking workflows
 
 ---
+## Live Demo
+
+[Open Application](https://codealphacreditscoringmodel-jxx4wjfyuah5u7vdyhrqby.streamlit.app/)
+
+---
 
 ## Author
 
