@@ -1,4 +1,4 @@
-<img width="1920" height="1140" alt="prediction_goodrisk" src="https://github.com/user-attachments/assets/3e0e2dfd-b53e-4965-9042-2301dccff6c9" /># Credit Scoring Model
+<img width="1920" height="1140" alt="prediction_goodrisk" src="https://github.com/user-attachments/assets/d0244b18-b6f5-499e-9850-6d15c9815fad" /># Credit Scoring Model
 
 ## Overview
 
@@ -131,15 +131,15 @@ streamlit run app.py
 
 ### Home Page
 
-"C:\Users\hasin\OneDrive\Documents\credit_scoring_project\screenshots\HOME.png"
+<img width="1920" height="1140" alt="HOME" src="https://github.com/user-attachments/assets/d0244b18-b6f5-499e-9850-6d15c9815fad" />
 
 ### Good Credit Prediction
 
-"C:\Users\hasin\OneDrive\Documents\credit_scoring_project\screenshots\prediction_goodrisk.png"
+<img width="1920" height="1140" alt="prediction_goodrisk" src="https://github.com/user-attachments/assets/b41aa751-482e-4301-8457-aed15b2d86b2" />
 
 ### Bad Credit Prediction
 
-"C:\Users\hasin\OneDrive\Documents\credit_scoring_project\screenshots\prediction_badrisk.png"
+<img width="1920" height="1140" alt="prediction_badrisk" src="https://github.com/user-attachments/assets/46d3fbd3-59d8-446f-8a8a-ec5a4a2228d1" />
 
 ---
 
